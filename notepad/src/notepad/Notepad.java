@@ -11,9 +11,7 @@ import java.io.*;
 import java.io.FileFilter;
 import java.util.Scanner;
 
-/**
- * @author الملك لله وحده
- */
+
 public class Notepad extends JFrame implements ActionListener {
     private JTextArea txt = new JTextArea(); 
 
